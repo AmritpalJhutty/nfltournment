@@ -1,1 +1,35 @@
-something
+Model Classes
+=============
+
+1) Player
+
+2) Team
+
+Attributes
+==========
+
+1) Player
+	-firstName
+	-lastName
+	-position
+	-age
+	-salary
+	-teamName
+	-height
+	-weight
+	-May add more attributes later
+	
+2) Team
+	-teamName
+	-teamRoster
+
+Use Cases
+=========
+
+Some of the use cases this project will include but not limited to are:
+
+1)	Search players by first or last name
+2)	Search players by team
+3)	Average age of any given team
+4)	Set up a tournament and let teams play
+
